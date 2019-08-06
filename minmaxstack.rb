@@ -1,5 +1,6 @@
 require "byebug"
-require_relative 'MyStack'
+require_relative 'MyStack
+'
 
 class MinMaxStack
 
